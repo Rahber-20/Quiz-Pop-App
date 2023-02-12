@@ -1,0 +1,87 @@
+[
+    {
+      "question": "Which artist is known for coining the term 'Surrealism'?",
+      "option1": "Pablo Picasso",
+      "option2":"Salvador Dali",
+      "option3":"Vincent Van Gogh",
+      "option4":"Henri Matisse",
+      "answer": 2
+    },
+    {
+    
+      "question": "Which movement is associated with the use of abstract forms and shapes in art?",
+      "option1": "Impressionism", 
+      "option2":"Expressionism",
+      "option3": "Futurism",
+      "option4": "Cubism",
+      "answer": 4
+    },
+    {
+    
+      "question": "Which artist is known for painting the work 'The Persistence of Memory'?",
+      "option1": "Pablo Picasso",
+      "option2": "Salvador Dali", 
+      "option3":"Vincent van Gogh",
+      "option4": "Henri Matisse",
+      "answer": 2
+    },
+    {
+      "question": "Which artist is known for creating the painting 'The Scream'?",
+      "option1": "Vincent van Gogh", 
+      "option2":"Salvador Dali",
+      "option3": "Edvard Munch", 
+      "option4":"Claude Monet",
+      "answer": 3
+    },
+    {
+      "question": "What movement was associated with the use of bold, bright colors and thick brushstrokes?",
+      "option1": "Impressionism", 
+      "option2" :"Expressionism", 
+      "option3":"Fauvism",
+      "option4": "Cubism",
+      "answer": 3
+    },
+    {
+    
+      "question": "What movement was associated with the use of bright colors, simplified forms, and a focus on movement and speed",
+      "option1": "Impressionism",
+      "option2": "Futurism",
+      "option3": "Surrealism",
+      "option4": "Abstract Expressionism",
+      "answer": 2
+    },
+    {
+      "question": "Which artist is known for creating the painting 'Water Lilies'?",
+      "option1": "Claude Monet",
+      "option2": "Paul Cezanne",
+      "option3": "Paul Gauguin",
+      "option4": "Paul Klee",
+      "answer": 1
+    },
+    {
+      "question": "Which artist is known for creating the painting 'Les Demoiselles d'Avignon'?",
+      "option1": "Henri Matisse",
+      "option2": "Vincent van Gogh",
+      "option3": "Salvador Dali",
+      "option4": "Pablo Picasso",
+      "answer": 4
+    },
+    {
+      "question": "Which artist is known for creating the painting 'Guernica'?",
+      "option1": "Claude Mone",
+      "option2": "Paul Cezanne",
+      "option3": "Pablo Picasso",
+      "option4": "Vincent van Gogh",
+      "answer": 3
+    },
+    {
+      "question": "Which artist is known for creating the sculpture 'The Thinker'?",
+      "option1": "Auguste Rodin",
+      "option2": "Alexander Calder",
+      "option3": "Jean Arp",
+      "option4": "Henry Moore",
+      "answer": 1
+    }
+  ]
+
+  

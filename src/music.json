@@ -1,0 +1,85 @@
+ [
+    {
+      
+      "question": "Which of the following is not a type of music notation?",
+      "option1": "Standard notation",
+      "option2":"Tab notation",
+      "option3":"Morse code notation",
+      "option4":"Graphics notation",
+      "answer": 3
+      
+    },
+    {
+      "question": "What is the most common time signature in classical music?",
+      "option1": "3/4",
+      "option2":"4/4",
+      "option3":"5/4",
+      "option4":"6/8",
+      "answer": 2
+        },
+    {
+      "question": "Which of the following is not a type of instrument in a symphony orchestra?",
+      "option1": "Violin",
+      "option2":"Piano",
+      "option3":"harp",
+      "option4":"Theremin",
+      "answer": 4
+    },
+    {
+      
+      "question": "What is the most common key in pop music?",
+      "option1": "C Major",
+      "option2":"A Major",
+      "option3":"D Major",
+      "option4":"G Major",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is not a type of chord?",
+      "option1": "Major",
+      "option2":"Minor",
+      "option3":"Diminished",
+      "option4":"Flat",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is not a type of music genre?",
+      "option1": "Jazz",
+      "option2":"Blues",
+      "option3":"Rock",
+      "option4":"Applesauce",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is not a type of music theory?",
+      "option1": "Harmony",
+      "option2":"CounterPoint",
+      "option3":"Form",
+      "option4":"Cooking",
+      "answer": 4
+    },
+    {
+      "question": "What is the most common tempo marking in classical music?",
+      "option1": "Allegro",
+      "option2":"Andante",
+      "option3":"Adagio",
+      "option4":"Moderato",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is not a type of musical form?",
+      "option1": "Sonata",
+      "option2":"Concerto",
+      "option3":"Symphony",
+      "option4":"Spaghetti",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is not a type of music notation software?",
+      "option1": "Sibelius",
+      "option2":"Finale",
+      "option3":"Musescore",
+      "option4":"Microsoft Word",
+      "answer": 4
+        }
+  ]

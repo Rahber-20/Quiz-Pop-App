@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+:root{
+  background: linear-gradient(90deg, #c0f7c8 0%, #c4d7f9 100%);
+  font-size: 62.5%;
+}
+* {
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+
+h1,h2,h3,h4{
+  margin-bottom: 1rem;
+}
+
+h1{
+  font-size: 5.4rem;
+  margin-bottom: 5rem;
+  color: #2b8cfa;
+}
+h1:hover{
+  cursor: pointer;
+}
+h2{
+  font-size: 5.2rem;
+  margin-bottom: 4rem;
+  font-weight: 700;
+}
+
+h3{
+  font-size: 2.8rem;
+  font-weight: 500;
+}
+
+/*Utilities*/
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.main > *{
+  width: 100%;
+}
+
+.flex-column{
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-center{
+  justify-content: center;
+  align-items: center;
+}
+
+
+/*Buttons*/
+
+.btn{
+  font-size: 1.8rem;
+  padding: 1rem 0;
+  margin-bottom: 5rem;
+  width: 20rem;
+  text-align: center;
+  border: 0.1rem solid;
+  color: #b8d4f3;
+  text-decoration: none;
+  background-color: rgb(64, 4, 118);
+  border-radius: 0.6rem;
+}
+
+.btn:hover{
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 #7a78fe;
+  transform: translateY((-0.1rem));
+  transition: transform 150ms;
+}
+
+/*For Music Category */
+
+#question{
+  font-size: 3rem;
+  position: relative;
+  bottom: 3rem;
+}
+
+.option-main{
+  display: flex;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  font-size: 1.8rem;
+  border: 0.1rem solid rgba(86, 165, 235, .25);
+  background-color: antiquewhite;
+  margin-bottom: 1rem;
+}
+
+.option-main:hover{
+  cursor: pointer;
+  box-shadow: 0 0.4rem 0.3rem 0 #4b9dfc;
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;
+}
+
+.option-prefix{
+  padding: 1.5rem 2.5rem;
+  background-color: #4b9dfc;
+  color: white;
+}
+.option-text{
+  padding: 1.5rem;
+  width: 100%;
+}
+
+/*For Correct and Incorrect Selection*/
+
+.correct{
+  background-color: rgb(18, 167, 18);
+}
+.incorrect{
+  background-color: rgb(219, 57, 57);
+}
+
+/*Heads Up Display to display Score and Question Counter*/
+
+#hud{
+  display: flex;
+}
+
+#hud-item{
+  position: relative;
+  bottom: 6rem;
+  margin: 15rem;
+  margin-bottom: 2rem;
+}
+
+.hud-prefix{
+  text-align: center;
+  font-size: 2rem;
+
+}
+.hud-main-text{
+  text-align: center;
+}
+
+
+/*RESPONSIVE DESIGN*/
+
+@media all and (max-width:480px){
+  
+  :root{
+    background-color: #adcef5;
+  }
+  #hud{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #hud-item{
+    flex-direction: column;
+    position: relative;
+    bottom: 0.2rem;
+    
+  }
+  .resDesign1{
+    position: relative;
+    left: 15rem;
+  }
+  .resDesign2{
+    position: relative;
+    right: 10rem;
+  }
+}

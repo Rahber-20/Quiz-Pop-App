@@ -1,0 +1,83 @@
+[
+  {
+    "question": "What is the correct syntax for an if statement in Python?",
+    "option1":"if (condition):",
+     "option2": "if condition",
+     "option3": "if: condition",
+     "option4": "if condition:",
+    
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is not a data type in JavaScript?",
+    "option1": "String",
+    "option2": "Number",
+     "option3": "Boolean",
+     "option4":  "ArrayList",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is used to declare a variable in Java?",
+    "option1": "var",
+    "option2": "let",
+    "option3": "const",
+    "option4": "int",
+    "answer": 4
+  },
+  {
+    "question": "What is the correct syntax for a for loop in C#?",
+    "option1": "for i = 0 to 10",
+      "option2":"for (i = 0; i <= 10; i++)",
+      "option3":"for (int i = 0; i <= 10)",
+     "option4": "for i in range(0, 10)",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a looping structure in PHP?",
+    "option1": "while",
+    "option2": "for",
+    "option3": "do-while",
+    "option4": "foreach",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is not a valid operator in C++?",
+    "option1": "+",
+    "option2": "-",
+    "option3": "*",
+    "option4": "$",
+    "answer": 4
+  },
+  {
+    "question": "In which programming language is 'print' used for displaying output?",
+    "option1": "Python",
+    "option2": "JavaScript",
+    "option3": "Java",
+    "option4": "C++",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for a function in Ruby?",
+    "option1": "function name()",
+    "option2": "def name",
+    "option3": "function name",
+    "option4": "def name()",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is not a type of variable in Swift?",
+    "option1": "Int",
+    "option2": "String",
+    "option3": "Double",
+    "option4": "Object",
+    "answer": 4
+  },
+  {
+    "question": "In which programming language is '#' used for commenting?",
+    "option1": "Python",
+    "option2": "JavaScript",
+    "option3": "Java",
+    "option4": "C++",
+    "answer": 4
+  }
+]
