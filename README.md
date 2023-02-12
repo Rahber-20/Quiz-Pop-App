@@ -46,6 +46,8 @@ This JavaScript quiz application named **Quiz Pop** is designed to test your kno
 
 ## Links
 
+[GitHub Repo Link](https://github.com/Rahber-20/Quiz-Pop-App.git)
+[Quiz-Pop App](http://magical-trick.surge.sh)
 
 
 
